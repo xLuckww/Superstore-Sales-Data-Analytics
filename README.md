@@ -67,4 +67,4 @@ jupyter notebook my_EDA.ipynb
 
 ## 作者
 
-xLuck · [GitHub](https://github.com/)
+xLuck · [GitHub](https://github.com/xLuckww)
